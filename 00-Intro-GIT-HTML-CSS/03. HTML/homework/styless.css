@@ -1,17 +1,36 @@
+body {
+    background-image: url(imagen.jpg);
+}
+
 h1 {
     color:brown;
     text-align: center;
+}
+
+.divClass{
+    background-color: antiquewhite;
+    max-width: 300px;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+    border: 5px solid;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 img{
     width: 400px;
     height: 250px;
 }
 #thirdDiv {
-    height: 600px;
-    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    max-width: 500px;
     background-color: darkcyan;
     padding: 50px;
     border: 5px solid red;
+    
 }
 #spanId {
     font-size: 18px;
