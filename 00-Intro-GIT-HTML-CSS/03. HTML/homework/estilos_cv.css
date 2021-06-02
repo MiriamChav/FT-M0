@@ -1,0 +1,12 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#Titulo{
+    background-color: lightcoral;
+    max-width: 500px;
+    
+}
+#Titulo img{
+    float: right;
+    max-width: 22%;
+}
